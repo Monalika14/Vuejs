@@ -28,7 +28,7 @@ const router = createRouter({
     // },
     // {
     //     path:'/women',
-    //     component: WomenSection
+    ///     component: WomenSection
     // },
     // {
     //     path:'/electronics',
